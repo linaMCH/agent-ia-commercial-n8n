@@ -21,15 +21,15 @@ Tous les outils utilisés sont accessibles en version gratuite.
 ## 📸 Démonstration
 
 ### Conversation avec l'agent
-![Conversation Telegram](screenshots/conversation-1.png)
-![Conversation Telegram - suite](screenshots/conversation-2.png)
-![Conversation Telegram - confirmation](screenshots/conversation-3.png)
+![Conversation Telegram](conversation-1.png)
+![Conversation Telegram - suite](conversation-2.png)
+![Conversation Telegram - confirmation](conversation-3.png)
 
 ### Enregistrement automatique du lead
-![Google Sheet CRM](screenshots/sheet-leads.png)
+![Google Sheet CRM](sheet-leads.png)
 
 ### Vue d'ensemble du workflow
-![Architecture n8n](screenshots/workflow-architecture.png)
+![Architecture n8n](workflow-architecture.png)
 
 ## 💡 Ce que ce projet démontre
 
