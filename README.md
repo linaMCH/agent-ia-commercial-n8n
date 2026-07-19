@@ -49,4 +49,5 @@ Tous les outils utilisés sont accessibles en version gratuite.
 
 Projet réalisé pour maîtriser l'architecture des agents IA de bout en bout : conception, construction, robustesse, et présentation. Ouvert aux opportunités en automatisation IA / no-code.
 
-[LinkedIn](https://www.linkedin.com/in/lina-maouche-774510334/?locale=fr) · [Gmail](linamaouchedev@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/lina-maouche-774510334/?locale=fr) 
+📧 linamaouchedev@gmail.com
